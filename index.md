@@ -3,9 +3,6 @@
 
 
 # [Customer Clustering](https://github.com/hpiotr6/Customers-Clustering)
-![alt text](andre-francois-mckenzie-iGYiBhdNTpE-unsplash.jpg)
-
-Photo by <a href="https://unsplash.com/@silverhousehd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">André François McKenzie</a> on <a href="https://images.unsplash.com/photo-1513171920216-2640b288471b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1709&q=80">Unsplash</a>
 
 Project is the solution for eCommerce business assignment.
 Having been given users, sessions, deliveries and products frames, we have to deal with the following business problem:
@@ -24,12 +21,20 @@ More information was reported in the polish language [here](https://github.com/h
 * **Input:** users, sessions, deliveries and products frames
 * **Output:** best clients group
 
-# [Project 2: Crypto Trading Bot](http://youtube.com/dataprofessor)
-![alt text](maxim-hopman-fiXLQXAhCfk-unsplash.jpg)
+# [Naive Bayes Random Forest Classifier](https://github.com/hpiotr6/Naive-Bayes-Random-Forest)
 
-Photo by <a href="https://unsplash.com/@nampoh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Maxim Hopman</a> on <a href="https://unsplash.com/s/photos/cryptocurrency-trading?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+The project is a Random Forest from-scratch implementation, which relies on a Naive Bayes classifiers instead of decision trees.
 
-This project makes use of ***sentiment analysis*** of cryptocurrency coupled with ***technical analysis*** in the trading of cryptocurrencies.
-* **Python libraries used:** Streamlit, python-binance, cctx, talib
-* **Input:** Cryptocurrency historical price
-* **Output:** Trading signals triggers buying and selling
+Project covers:
+* Random Forest implementation
+* Naive Bayes implemenatation
+* Comparison between `sklearn` Random Forest and own implementation
+
+More information was reported in the polish language [here](https://github.com/hpiotr6/Naive-Bayes-Random-Forest/blob/main/21ZUMA_sprawozdanie_koncowe_Hondra_Groszyk.pdf).
+
+# [Object tracking](https://github.com/hpiotr6/Object-Tracking)
+
+Tracker is a Python library for multiple object tracking, i.e. vehicles, based on cartesian plane coordinates. Kalman Filter was used, incorporating three main steps:
+* Prediction of object's future location
+* Reduction of noise introduced by inaccurate detections
+* Facilitating the process of association of multiple objects to their tracks  
