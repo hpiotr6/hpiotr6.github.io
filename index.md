@@ -1,5 +1,5 @@
 # Piotr Hondra
-*An Aspiring Data Scientist | Python Developer*
+*An Aspiring Machine Learning Specialist | Python Developer*
 
 
 # [Customer Clustering](https://github.com/hpiotr6/Customers-Clustering)
